@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Firebase local files
+.firebase/
+.firebaserc
+
+# Temporary files
+/tmp/
+*.log
